@@ -1,0 +1,6 @@
+framework module Pods_DryReachability_iOS_Example {
+  umbrella header "Pods-DryReachability-iOS_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - DryReachability-iOS (0.0.1):
+    - ReachabilitySwift
+  - ReachabilitySwift (4.3.1)
+
+DEPENDENCIES:
+  - DryReachability-iOS (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+
+EXTERNAL SOURCES:
+  DryReachability-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DryReachability-iOS: 748e5d184b00d93704404438446d51013f19cd89
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+
+PODFILE CHECKSUM: 6c5cf657b853271564c0d96882025d8fdc94270b
+
+COCOAPODS: 1.8.0.beta.2

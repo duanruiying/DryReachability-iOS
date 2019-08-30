@@ -1,0 +1,6 @@
+framework module DryReachability_iOS {
+  umbrella header "DryReachability-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
